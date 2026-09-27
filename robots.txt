@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://lowsense-dev.github.io/astralix-site/sitemap.xml
